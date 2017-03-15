@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment64</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Audio_Fragement">This is Audio Fragement sample</string>
+    <string name="Video_Fragement">This is Video Fragement sample</string>
+</resources>
